@@ -1,11 +1,6 @@
 # 99 beers
 
-I don't like beer, but I kinda like programming, so I've decided to make my
-own versions of beers songs in other languages. My plan is to try as many
-programming languages as I'll be able to mentally process, but please 
-bear with me. I'm not a rocket scientist, but self-studying pleb.
+Well, I don't like beer so much, but here is my take of (certainly) incredibly popular... game or challenge so to speak [**99 bottles of beer**](https://99-bottles-of-beer.net/). 
 
-So I will be adding more languages and maybe correcting some typos and stupid
-mistakes.
+*Note: I had a typo earlier and I wrote "99 **battles** of beer" which could be quite charming game I suppose. :D
 
-Have a nice day, folks.
